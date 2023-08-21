@@ -66,7 +66,7 @@
             "AccessKey": "GITHUB_S3_ACCESS_KEY",
             "SecretKey": "GITHUB_S3_SECRET_KEY",
             "Bucket": "4662-east1",
-            "Region": "us-east-2",
+            "Region": "us-east-1",
             "Writable": "TRUE"
         },
         "S3_B": {
